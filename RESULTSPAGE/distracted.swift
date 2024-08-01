@@ -10,7 +10,7 @@ import SwiftUI
 struct distracted: View {
     var body: some View {
         ZStack {
-            Color("myPurple")
+            Color("myGreen")
                 .ignoresSafeArea()
            
             VStack {
